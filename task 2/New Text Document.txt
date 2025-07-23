@@ -1,0 +1,120 @@
+Task 1: Student Management System
+
+Goal: Build a program to store student names and their scores using lists/dictionaries.
+
+Core Features:
+
+- Add new students (with 3 subject scores)
+
+- Show all students with average and performance status
+
+- Search for a student by name
+
+- Use functions for actions
+
+- Use error handling for invalid inputs
+
+ 
+
+ 
+
+
+Task 2: Simple Expense Tracker
+
+Scenario: Help users track their daily expenses.
+
+Instructions:
+
+- Let user enter multiple expenses: description + amount
+
+- Store as a list of dictionaries e.g., {"item": "Transport", "amount": 150.0}
+
+- Allow menu options:
+
+ - Add expense
+
+ - View all expenses
+
+ - Total and average
+
+ - Exit
+
+- Use try-except for amount input
+
+- Use loops and functions
+
+ 
+
+ 
+
+Task 3: Calculator with History
+
+Scenario: A basic calculator that remembers past results.
+
+Instructions:
+
+- Show options: Add, Subtract, Multiply, Divide, View History, Exit
+
+- Use input to take two numbers and perform operation
+
+- Store each operation and result in a list
+
+- Show history with index numbers
+
+- Use functions for operations and error handling for divide-by-zero
+
+ 
+
+ 
+
+
+Task 4: Shopping Cart System
+
+Scenario: Simulate a mini-store system.
+
+Instructions:
+
+- Show a list of available items with prices (use a dictionary)
+
+- Let the user "add to cart" by entering item name and quantity
+
+- Store cart in a list of dictionaries:
+
+ {"item": "Rice", "quantity": 2, "price": 400}
+
+- Calculate total bill
+
+- Option to remove an item or clear cart
+
+- Loop until user exits
+
+- Handle invalid inputs and missing items
+
+ 
+
+ 
+
+
+Task 5: Movie Ticket Booking System
+
+Scenario: Manage ticket booking for a cinema.
+
+Instructions:
+
+- Show movie options with available seats and ticket price (dictionary)
+
+- Allow users to:
+
+ - Book a ticket (reduce seat count)
+
+ - View movies and seats
+
+ - Exit
+
+- Validate:
+
+ - That the movie exists
+
+ - That enough seats are available
+
+- Use functions, loops, error handling, and data structures

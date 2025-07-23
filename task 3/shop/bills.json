@@ -1,0 +1,40 @@
+[
+    {
+        "timestamp": "2025-07-07 13:33:59",
+        "items": [
+            {
+                "name": "rice",
+                "price": 400.0,
+                "quantity": 4,
+                "total": 1600.0
+            }
+        ],
+        "subtotal": 1600.0,
+        "total_with_discount": 1600
+    },
+    {
+        "timestamp": "2025-07-07 13:51:44",
+        "items": [
+            {
+                "name": "rice",
+                "price": 400.0,
+                "quantity": 4,
+                "total": 1600.0
+            },
+            {
+                "name": "egg",
+                "price": 200.0,
+                "quantity": 3,
+                "total": 600.0
+            },
+            {
+                "name": "yam",
+                "price": 6700.0,
+                "quantity": 2,
+                "total": 13400.0
+            }
+        ],
+        "subtotal": 15600.0,
+        "total_with_discount": 14040
+    }
+]
