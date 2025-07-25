@@ -1,0 +1,19 @@
+[
+    {
+        "name": "obi",
+        "subjects": {
+            "English": 60.0
+        },
+        "average": 60.0,
+        "grade": "B"
+    },
+    {
+        "name": "obi",
+        "subjects": {
+            "English": 60.0,
+            "Maths": 50.0
+        },
+        "average": 55.0,
+        "grade": "C"
+    }
+]
